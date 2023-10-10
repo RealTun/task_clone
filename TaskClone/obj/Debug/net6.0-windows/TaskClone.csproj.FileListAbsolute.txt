@@ -1,0 +1,16 @@
+D:\SinhVien\3rd_year\NLHDH\TaskClone\bin\Debug\net6.0-windows\TaskClone.exe
+D:\SinhVien\3rd_year\NLHDH\TaskClone\bin\Debug\net6.0-windows\TaskClone.deps.json
+D:\SinhVien\3rd_year\NLHDH\TaskClone\bin\Debug\net6.0-windows\TaskClone.runtimeconfig.json
+D:\SinhVien\3rd_year\NLHDH\TaskClone\bin\Debug\net6.0-windows\TaskClone.dll
+D:\SinhVien\3rd_year\NLHDH\TaskClone\bin\Debug\net6.0-windows\TaskClone.pdb
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.Group3_Task.resources
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.csproj.GenerateResource.cache
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.GeneratedMSBuildEditorConfig.editorconfig
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.AssemblyInfoInputs.cache
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.AssemblyInfo.cs
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.csproj.CoreCompileInputs.cache
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.dll
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\refint\TaskClone.dll
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.pdb
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\TaskClone.genruntimeconfig.cache
+D:\SinhVien\3rd_year\NLHDH\TaskClone\obj\Debug\net6.0-windows\ref\TaskClone.dll
